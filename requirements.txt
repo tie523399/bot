@@ -1,0 +1,7 @@
+python-telegram-bot==13.15
+SQLAlchemy==1.4.46
+pandas==1.5.3
+numpy==1.24.3
+openpyxl==3.0.10
+certifi==2023.11.17
+urllib3==1.26.18 
